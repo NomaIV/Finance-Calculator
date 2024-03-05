@@ -21,6 +21,10 @@ npm install
 - Select the type of calculation you want to perform (Simple Interest, Compound Interest, or Mortgage Calculator).
 - Enter the required values (principal, interest rate, time, etc.).
 - Click the "Calculate" button to get the result.
+
+## Technology Used
+- Python
+
    
 
 
