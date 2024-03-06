@@ -1,6 +1,9 @@
 # Finance Calculator
 Program that allows users to calculate their interest, simple or coumpound, on an investment or monthly amount repayable on a home loan.
 
+## Repository
+[Link to repository](https://github.com/NomaIV/Finance-Calculator)
+
 ## Features
 - Calculate Simple Interest: Quickly find out the interest earned on an investment.
 - Calculate Compound Interest: Understand how compounding affects your investment over time.
