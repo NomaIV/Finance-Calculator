@@ -11,10 +11,11 @@ Program that allows users to calculate their interest, simple or coumpound, on a
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/NomaIV/finance-calculator.git
+```
    
 ## Installation
 npm install
