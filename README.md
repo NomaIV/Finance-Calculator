@@ -1,5 +1,5 @@
 # Finance Calculator
-Program that allows users to calculate their interest, simple or coumpound, on an investment or monthly amount repayable on a home loan.
+Capstone project: Program that allows users to calculate their interest, simple or coumpound, on an investment or monthly amount repayable on a home loan.
 
 ## Repository
 [Link to repository](https://github.com/NomaIV/Finance-Calculator)
